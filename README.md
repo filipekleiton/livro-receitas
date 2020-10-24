@@ -2,9 +2,10 @@
 
 
 
-Olá, bem vindo ao livro de receitas :wave:
+### Olá, bem vindo ao livro de receitas :wave:
 
-- Strogonoff de frango
+1. Comida
 
-1. Comida 
-2. Pavê teste
+- Strogonoff 
+
+- Pavê
